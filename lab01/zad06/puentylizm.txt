@@ -1,0 +1,11 @@
+width = getWidth();
+height = getHeight();
+n = 20000;
+r = 6;
+
+for (i = 0; i < n; i++) {
+    x = random() * width;
+    y = random() * height;
+    setColor(getPixel(x, y));
+    fillOval(x - r, y - r, 2*r, 2*r);
+}
