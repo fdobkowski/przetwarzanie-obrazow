@@ -18,8 +18,8 @@ h2 = np.array([[0], [1], [-1]])
 
 
 def run_task():
-    res_h1 = convolve2d(f, h1, mode="same")
-    res_h2 = convolve2d(f, h2, mode="same")
+    res_h1 = convolve2d(f, h1, mode="full")
+    res_h2 = convolve2d(f, h2, mode="full")
 
     print("--- Zadanie (a): Matematyczny splot ---")
     print("Wynik f * h1:\n", res_h1)

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.12)  7 MAY 2026 21:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.12.12)  12 MAY 2026 23:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1179,183 +1179,189 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 {C:/Users/flori/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 95.
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 107.
 <zad2/zestawienie_filtrowania.png, id=21, 1445.4pt x 722.7pt>
 File: zad2/zestawienie_filtrowania.png Graphic file (type png)
 <use zad2/zestawienie_filtrowania.png>
-Package pdftex.def Info: zad2/zestawienie_filtrowania.png  used on input line 99.
+Package pdftex.def Info: zad2/zestawienie_filtrowania.png  used on input line 111.
 (pdftex.def)             Requested size: 426.79135pt x 213.39314pt.
-<zad2/oryginal.png, id=23, 1987.425pt x 1987.425pt>
+ [2]
+<zad2/oryginal.png, id=28, 1987.425pt x 1987.425pt>
 File: zad2/oryginal.png Graphic file (type png)
 <use zad2/oryginal.png>
-Package pdftex.def Info: zad2/oryginal.png  used on input line 105.
+Package pdftex.def Info: zad2/oryginal.png  used on input line 117.
 (pdftex.def)             Requested size: 192.0548pt x 192.05217pt.
- [2 <./zad2/zestawienie_filtrowania.png>]
-<zad2/h_a.png, id=34, 1987.425pt x 1987.425pt>
+<zad2/h_a.png, id=29, 1987.425pt x 1987.425pt>
 File: zad2/h_a.png Graphic file (type png)
 <use zad2/h_a.png>
-Package pdftex.def Info: zad2/h_a.png  used on input line 111.
+Package pdftex.def Info: zad2/h_a.png  used on input line 123.
 (pdftex.def)             Requested size: 192.0548pt x 192.05217pt.
-<zad2/h_b.png, id=35, 1987.425pt x 1987.425pt>
+ [3 <./zad2/zestawienie_filtrowania.png> <./zad2/oryginal.png (PNG copy)>]
+<zad2/h_b.png, id=40, 1987.425pt x 1987.425pt>
 File: zad2/h_b.png Graphic file (type png)
 <use zad2/h_b.png>
-Package pdftex.def Info: zad2/h_b.png  used on input line 117.
+Package pdftex.def Info: zad2/h_b.png  used on input line 129.
 (pdftex.def)             Requested size: 192.0548pt x 192.05217pt.
-<zad2/h_c.png, id=36, 1987.425pt x 1987.425pt>
+<zad2/h_c.png, id=41, 1987.425pt x 1987.425pt>
 File: zad2/h_c.png Graphic file (type png)
 <use zad2/h_c.png>
-Package pdftex.def Info: zad2/h_c.png  used on input line 123.
+Package pdftex.def Info: zad2/h_c.png  used on input line 135.
 (pdftex.def)             Requested size: 192.0548pt x 192.05217pt.
- [3 <./zad2/oryginal.png (PNG copy)> <./zad2/h_a.png (PNG copy)> <./zad2/h_b.png (PNG copy)>]
-<zad2/h_d.png, id=44, 1987.425pt x 1987.425pt>
+<zad2/h_d.png, id=42, 1987.425pt x 1987.425pt>
 File: zad2/h_d.png Graphic file (type png)
 <use zad2/h_d.png>
-Package pdftex.def Info: zad2/h_d.png  used on input line 129.
+Package pdftex.def Info: zad2/h_d.png  used on input line 141.
 (pdftex.def)             Requested size: 192.0548pt x 192.05217pt.
-<zad3/oryginal.png, id=45, 754.82pt x 401.5pt>
+ [4 <./zad2/h_a.png (PNG copy)> <./zad2/h_b.png (PNG copy)> <./zad2/h_c.png (PNG copy)>]
+<zad3/oryginal.png, id=50, 754.82pt x 401.5pt>
 File: zad3/oryginal.png Graphic file (type png)
 <use zad3/oryginal.png>
-Package pdftex.def Info: zad3/oryginal.png  used on input line 146.
+Package pdftex.def Info: zad3/oryginal.png  used on input line 158.
 (pdftex.def)             Requested size: 192.0548pt x 102.15752pt.
- [4 <./zad2/h_c.png (PNG copy)> <./zad2/h_d.png (PNG copy)>]
-<zad3/g1.png, id=52, 754.82pt x 401.5pt>
+<zad3/g1.png, id=51, 754.82pt x 401.5pt>
 File: zad3/g1.png Graphic file (type png)
 <use zad3/g1.png>
-Package pdftex.def Info: zad3/g1.png  used on input line 152.
+Package pdftex.def Info: zad3/g1.png  used on input line 164.
 (pdftex.def)             Requested size: 192.0548pt x 102.15752pt.
-<zad3/g2.png, id=53, 754.82pt x 401.5pt>
+ [5 <./zad2/h_d.png (PNG copy)> <./zad3/oryginal.png (PNG copy)>]
+<zad3/g2.png, id=58, 754.82pt x 401.5pt>
 File: zad3/g2.png Graphic file (type png)
 <use zad3/g2.png>
-Package pdftex.def Info: zad3/g2.png  used on input line 158.
+Package pdftex.def Info: zad3/g2.png  used on input line 170.
 (pdftex.def)             Requested size: 192.0548pt x 102.15752pt.
-<zad3/g3.png, id=54, 754.82pt x 401.5pt>
+<zad3/g2_32bit.png, id=59, 754.82pt x 401.5pt>
+File: zad3/g2_32bit.png Graphic file (type png)
+<use zad3/g2_32bit.png>
+Package pdftex.def Info: zad3/g2_32bit.png  used on input line 176.
+(pdftex.def)             Requested size: 192.0548pt x 102.15752pt.
+<zad3/g3.png, id=60, 754.82pt x 401.5pt>
 File: zad3/g3.png Graphic file (type png)
 <use zad3/g3.png>
-Package pdftex.def Info: zad3/g3.png  used on input line 166.
+Package pdftex.def Info: zad3/g3.png  used on input line 184.
 (pdftex.def)             Requested size: 192.0548pt x 102.15752pt.
-<zad3/zestawienie_splotu.png, id=55, 1445.4pt x 361.35pt>
+<zad3/zestawienie_splotu.png, id=61, 1445.4pt x 361.35pt>
 File: zad3/zestawienie_splotu.png Graphic file (type png)
 <use zad3/zestawienie_splotu.png>
-Package pdftex.def Info: zad3/zestawienie_splotu.png  used on input line 172.
+Package pdftex.def Info: zad3/zestawienie_splotu.png  used on input line 190.
 (pdftex.def)             Requested size: 426.79135pt x 106.69656pt.
- [5 <./zad3/oryginal.png (PNG copy)> <./zad3/g1.png (PNG copy)> <./zad3/g2.png (PNG copy)> <./zad3/g3.png (PNG copy)>]
-<zad4/oryginal.png, id=64, 803.0pt x 615.29875pt>
+ [6 <./zad3/g1.png (PNG copy)> <./zad3/g2.png (PNG copy)> <./zad3/g2_32bit.png (PNG copy)> <./zad3/g3.png (PNG copy)>]
+<zad4/oryginal.png, id=70, 803.0pt x 615.29875pt>
 File: zad4/oryginal.png Graphic file (type png)
 <use zad4/oryginal.png>
-Package pdftex.def Info: zad4/oryginal.png  used on input line 186.
+Package pdftex.def Info: zad4/oryginal.png  used on input line 204.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
-<zad4/g1.png, id=65, 803.0pt x 615.29875pt>
+<zad4/g1.png, id=71, 803.0pt x 615.29875pt>
 File: zad4/g1.png Graphic file (type png)
 <use zad4/g1.png>
-Package pdftex.def Info: zad4/g1.png  used on input line 192.
+Package pdftex.def Info: zad4/g1.png  used on input line 210.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
-<zad4/g2.png, id=66, 803.0pt x 615.29875pt>
+<zad4/g2.png, id=72, 803.0pt x 615.29875pt>
 File: zad4/g2.png Graphic file (type png)
 <use zad4/g2.png>
-Package pdftex.def Info: zad4/g2.png  used on input line 198.
+Package pdftex.def Info: zad4/g2.png  used on input line 216.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
- [6 <./zad3/zestawienie_splotu.png> <./zad4/oryginal.png (PNG copy)> <./zad4/g1.png (PNG copy)>]
-<zad4/g3.png, id=75, 803.0pt x 615.29875pt>
+ [7 <./zad3/zestawienie_splotu.png> <./zad4/oryginal.png (PNG copy)> <./zad4/g1.png (PNG copy)>]
+<zad4/g3.png, id=82, 803.0pt x 615.29875pt>
 File: zad4/g3.png Graphic file (type png)
 <use zad4/g3.png>
-Package pdftex.def Info: zad4/g3.png  used on input line 206.
+Package pdftex.def Info: zad4/g3.png  used on input line 224.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
-<zad4/zestawienie_sobel.png, id=76, 1156.32pt x 289.08pt>
+<zad4/zestawienie_sobel.png, id=83, 1149.093pt x 241.3818pt>
 File: zad4/zestawienie_sobel.png Graphic file (type png)
 <use zad4/zestawienie_sobel.png>
-Package pdftex.def Info: zad4/zestawienie_sobel.png  used on input line 212.
-(pdftex.def)             Requested size: 426.79135pt x 106.69766pt.
-<zad4/imageJEscher.png, id=77, 803.0pt x 615.29875pt>
+Package pdftex.def Info: zad4/zestawienie_sobel.png  used on input line 230.
+(pdftex.def)             Requested size: 426.79135pt x 89.6524pt.
+<zad4/imageJEscher.png, id=84, 803.0pt x 615.29875pt>
 File: zad4/imageJEscher.png Graphic file (type png)
 <use zad4/imageJEscher.png>
-Package pdftex.def Info: zad4/imageJEscher.png  used on input line 220.
+Package pdftex.def Info: zad4/imageJEscher.png  used on input line 238.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
- [7 <./zad4/g2.png (PNG copy)> <./zad4/g3.png (PNG copy)> <./zad4/zestawienie_sobel.png>]
-<zad5/Escher.png, id=87, 803.0pt x 615.29875pt>
+ [8 <./zad4/g2.png (PNG copy)> <./zad4/g3.png (PNG copy)> <./zad4/zestawienie_sobel.png>]
+<zad5/Escher.png, id=93, 803.0pt x 615.29875pt>
 File: zad5/Escher.png Graphic file (type png)
 <use zad5/Escher.png>
-Package pdftex.def Info: zad5/Escher.png  used on input line 236.
+Package pdftex.def Info: zad5/Escher.png  used on input line 254.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
-<zad5/krawedzie_kirscha.png, id=88, 803.0pt x 615.29875pt>
+<zad5/krawedzie_kirscha.png, id=94, 803.0pt x 615.29875pt>
 File: zad5/krawedzie_kirscha.png Graphic file (type png)
 <use zad5/krawedzie_kirscha.png>
-Package pdftex.def Info: zad5/krawedzie_kirscha.png  used on input line 242.
+Package pdftex.def Info: zad5/krawedzie_kirscha.png  used on input line 260.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
- [8 <./zad4/imageJEscher.png (PNG copy)> <./zad5/Escher.png (PNG copy)>]
+ [9 <./zad4/imageJEscher.png (PNG copy)> <./zad5/Escher.png (PNG copy)>]
 File: zad4/imageJEscher.png Graphic file (type png)
 <use zad4/imageJEscher.png>
-Package pdftex.def Info: zad4/imageJEscher.png  used on input line 250.
+Package pdftex.def Info: zad4/imageJEscher.png  used on input line 268.
 (pdftex.def)             Requested size: 192.0548pt x 147.15833pt.
-<zad6/oryginal.png, id=96, 752.8125pt x 501.875pt>
+<zad6/oryginal.png, id=102, 752.8125pt x 501.875pt>
 File: zad6/oryginal.png Graphic file (type png)
 <use zad6/oryginal.png>
-Package pdftex.def Info: zad6/oryginal.png  used on input line 262.
+Package pdftex.def Info: zad6/oryginal.png  used on input line 280.
 (pdftex.def)             Requested size: 192.0548pt x 128.03386pt.
- [9 <./zad5/krawedzie_kirscha.png (PNG copy)>]
-<zad6/blurred.png, id=103, 752.8125pt x 501.875pt>
+ [10 <./zad5/krawedzie_kirscha.png (PNG copy)>]
+<zad6/blurred.png, id=109, 752.8125pt x 501.875pt>
 File: zad6/blurred.png Graphic file (type png)
 <use zad6/blurred.png>
-Package pdftex.def Info: zad6/blurred.png  used on input line 268.
+Package pdftex.def Info: zad6/blurred.png  used on input line 286.
 (pdftex.def)             Requested size: 192.0548pt x 128.03386pt.
-<zad6/unsharp_mask_view.png, id=104, 752.8125pt x 501.875pt>
+<zad6/unsharp_mask_view.png, id=110, 752.8125pt x 501.875pt>
 File: zad6/unsharp_mask_view.png Graphic file (type png)
 <use zad6/unsharp_mask_view.png>
-Package pdftex.def Info: zad6/unsharp_mask_view.png  used on input line 274.
+Package pdftex.def Info: zad6/unsharp_mask_view.png  used on input line 292.
 (pdftex.def)             Requested size: 192.0548pt x 128.03386pt.
-<zad6/highboost.png, id=105, 752.8125pt x 501.875pt>
+<zad6/highboost.png, id=111, 752.8125pt x 501.875pt>
 File: zad6/highboost.png Graphic file (type png)
 <use zad6/highboost.png>
-Package pdftex.def Info: zad6/highboost.png  used on input line 280.
+Package pdftex.def Info: zad6/highboost.png  used on input line 298.
 (pdftex.def)             Requested size: 192.0548pt x 128.03386pt.
- [10 <./zad6/oryginal.png (PNG copy)> <./zad6/blurred.png (PNG copy)> <./zad6/unsharp_mask_view.png (PNG copy)>]
-<zad6/highboost_result.png, id=113, 1445.4pt x 361.35pt>
+ [11 <./zad6/oryginal.png (PNG copy)> <./zad6/blurred.png (PNG copy)> <./zad6/unsharp_mask_view.png (PNG copy)>]
+<zad6/highboost_result.png, id=119, 1445.4pt x 361.35pt>
 File: zad6/highboost_result.png Graphic file (type png)
 <use zad6/highboost_result.png>
-Package pdftex.def Info: zad6/highboost_result.png  used on input line 286.
+Package pdftex.def Info: zad6/highboost_result.png  used on input line 304.
 (pdftex.def)             Requested size: 426.79135pt x 106.69656pt.
-<zad7/oryginal_filtered.png, id=114, 1579.9025pt x 1589.94pt>
+<zad7/oryginal_filtered.png, id=120, 1579.9025pt x 1589.94pt>
 File: zad7/oryginal_filtered.png Graphic file (type png)
 <use zad7/oryginal_filtered.png>
-Package pdftex.def Info: zad7/oryginal_filtered.png  used on input line 296.
+Package pdftex.def Info: zad7/oryginal_filtered.png  used on input line 314.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
-<zad7/dekonwolucja_k2.png, id=115, 1579.9025pt x 1589.94pt>
+<zad7/dekonwolucja_k2.png, id=121, 1579.9025pt x 1589.94pt>
 File: zad7/dekonwolucja_k2.png Graphic file (type png)
 <use zad7/dekonwolucja_k2.png>
-Package pdftex.def Info: zad7/dekonwolucja_k2.png  used on input line 302.
+Package pdftex.def Info: zad7/dekonwolucja_k2.png  used on input line 320.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
- [11 <./zad6/highboost.png (PNG copy)> <./zad6/highboost_result.png> <./zad7/oryginal_filtered.png (PNG copy)>]
-<zad7/roznica_k2.png, id=124, 1579.9025pt x 1589.94pt>
+ [12 <./zad6/highboost.png (PNG copy)> <./zad6/highboost_result.png> <./zad7/oryginal_filtered.png (PNG copy)>]
+<zad7/roznica_k2.png, id=130, 1579.9025pt x 1589.94pt>
 File: zad7/roznica_k2.png Graphic file (type png)
 <use zad7/roznica_k2.png>
-Package pdftex.def Info: zad7/roznica_k2.png  used on input line 308.
+Package pdftex.def Info: zad7/roznica_k2.png  used on input line 326.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
-<zad7/dekonwolucja_k5.png, id=125, 1579.9025pt x 1589.94pt>
+<zad7/dekonwolucja_k5.png, id=131, 1579.9025pt x 1589.94pt>
 File: zad7/dekonwolucja_k5.png Graphic file (type png)
 <use zad7/dekonwolucja_k5.png>
-Package pdftex.def Info: zad7/dekonwolucja_k5.png  used on input line 314.
+Package pdftex.def Info: zad7/dekonwolucja_k5.png  used on input line 332.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
-<zad7/roznica_k5.png, id=126, 1579.9025pt x 1589.94pt>
+<zad7/roznica_k5.png, id=132, 1579.9025pt x 1589.94pt>
 File: zad7/roznica_k5.png Graphic file (type png)
 <use zad7/roznica_k5.png>
-Package pdftex.def Info: zad7/roznica_k5.png  used on input line 320.
+Package pdftex.def Info: zad7/roznica_k5.png  used on input line 338.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
- [12 <./zad7/dekonwolucja_k2.png (PNG copy)> <./zad7/roznica_k2.png (PNG copy)> <./zad7/dekonwolucja_k5.png (PNG copy)>]
-<zad7/dekonwolucja_k15.png, id=134, 1579.9025pt x 1589.94pt>
+ [13 <./zad7/dekonwolucja_k2.png (PNG copy)> <./zad7/roznica_k2.png (PNG copy)> <./zad7/dekonwolucja_k5.png (PNG copy)>]
+<zad7/dekonwolucja_k15.png, id=141, 1579.9025pt x 1589.94pt>
 File: zad7/dekonwolucja_k15.png Graphic file (type png)
 <use zad7/dekonwolucja_k15.png>
-Package pdftex.def Info: zad7/dekonwolucja_k15.png  used on input line 326.
+Package pdftex.def Info: zad7/dekonwolucja_k15.png  used on input line 344.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
-<zad7/roznica_k15.png, id=135, 1579.9025pt x 1589.94pt>
+<zad7/roznica_k15.png, id=142, 1579.9025pt x 1589.94pt>
 File: zad7/roznica_k15.png Graphic file (type png)
 <use zad7/roznica_k15.png>
-Package pdftex.def Info: zad7/roznica_k15.png  used on input line 332.
+Package pdftex.def Info: zad7/roznica_k15.png  used on input line 350.
 (pdftex.def)             Requested size: 192.0548pt x 193.25914pt.
-<zad7/zestawienie_van_cittert.png, id=136, 1300.86pt x 722.7pt>
+<zad7/zestawienie_van_cittert.png, id=143, 1300.86pt x 722.7pt>
 File: zad7/zestawienie_van_cittert.png Graphic file (type png)
 <use zad7/zestawienie_van_cittert.png>
-Package pdftex.def Info: zad7/zestawienie_van_cittert.png  used on input line 338.
+Package pdftex.def Info: zad7/zestawienie_van_cittert.png  used on input line 356.
 (pdftex.def)             Requested size: 426.79135pt x 237.10226pt.
- [13 <./zad7/roznica_k5.png (PNG copy)> <./zad7/dekonwolucja_k15.png (PNG copy)> <./zad7/roznica_k15.png (PNG copy)>] [14 <./zad7/zestawienie_van_cittert.png>] (main.aux)
+ [14 <./zad7/roznica_k5.png (PNG copy)> <./zad7/dekonwolucja_k15.png (PNG copy)> <./zad7/roznica_k15.png (PNG copy)>] [15 <./zad7/zestawienie_van_cittert.png>] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
@@ -1367,17 +1373,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49369 strings out of 467871
- 1138649 string characters out of 5418375
- 2160834 words of memory out of 5000000
- 77512 multiletter control sequences out of 15000+600000
+ 49378 strings out of 467871
+ 1138840 string characters out of 5418375
+ 2159834 words of memory out of 5000000
+ 77519 multiletter control sequences out of 15000+600000
  644374 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  114i,7n,122p,1253b,1924s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1440.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt1200.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\flori\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1728.pk><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/flori/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (14 pages, 21568057 bytes).
+Output written on main.pdf (15 pages, 21914536 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
- 48 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 454 PDF objects out of 1000 (max. 8388607)
+ 50 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
 
