@@ -54,7 +54,6 @@ def warunki_krok1(p: list[int]) -> tuple[bool, dict]:
 
 
 def warunki_krok2(p: list[int]) -> tuple[bool, dict]:
-    """Warunki usunięcia w kroku 2."""
     B = licznik_B(p)
     A = licznik_A(p)
     p2, p3, p4, p5, p6, p7, p8, p9 = p
